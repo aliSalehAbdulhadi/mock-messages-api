@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "id": 0,
+      "name": "ali",
+      "email": "iqalisaleh@gmail.com",
+      "content": "some data to test the api"
+    },
+    {
+      "id": 2,
+      "name": "fatima",
+      "email": "fatimasaleh@gmail.com",
+      "content": "some data to test the api"
+    }
+  ]
+}
